@@ -10,7 +10,7 @@ Contents
 <!--ts-->
 * [Goal](##Goal)
 * [Dataset](##DataSet)
-* [Methodlology and Results](##Methodlology and Results)
+* [Methodology and Results](##Methodology and Results)
 	* [ResNet18](###ResNet18)	
 	* [EfficinetNet](###EfficinetNet)
 * [Model Testing and Enviornment setting](##ModelTestingandEnviornmentsetting)
@@ -40,7 +40,7 @@ The below figure shows some of the examples from training dataset.
 
 ![Capture](https://user-images.githubusercontent.com/59650991/236347420-e7452071-0657-45e1-9d18-4437c79e4166.PNG)
 
-## Methodlology and Results
+## Methodology and Results
 To achieve mentioned goal, two CNN baseline architectures ResNet18 and EffeicientNet have been modified and implemented.
 ### Resnet18
 ResNet-18, a light and simple architecture with a smaller number of layers, was
