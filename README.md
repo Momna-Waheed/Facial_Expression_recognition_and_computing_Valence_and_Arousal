@@ -10,7 +10,7 @@ Contents
 <!--ts-->
 * [Goal](##Goal)
 * [Dataset](##DataSet)
-* [Methodology and Results](##Methodology and Results)
+* [Methodology and Results](##MethodologyandResults)
 	* [ResNet18](###ResNet18)	
 	* [EfficinetNet](###EfficinetNet)
 * [Model Testing and Enviornment setting](##ModelTestingandEnviornmentsetting)
